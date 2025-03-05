@@ -1,0 +1,94 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 2,
+    "settings": {
+        "typography": {
+            "fontFamilies": [
+                {
+                    "slug": "poppins-regular",
+                    "name": "Poppins-Regular",
+                    "fontFamily": "\"Poppins-Regular\", sans-serif",
+                    "fontFace": [
+                        {
+                            "fontFamily": "poppins-regular",
+                            "src": [
+                                "file:./assets/fonts/Poppins/Poppins-Regular.woff"
+                            ],
+                            "fontStyle": "normal"
+                        }
+                    ]
+                },
+                {
+                    "slug": "poppins-italic",
+                    "name": "Poppins-Italic",
+                    "fontFamily": "\"Poppins-Italic\", sans-serif",
+                    "fontFace": [
+                        {
+                            "fontFamily": "poppins-italic",
+                            "src": [
+                                "file:./assets/fonts/Poppins/Poppins-Italic.woff"
+                            ],
+                            "fontStyle": "italic"
+                        }
+                    ]
+                },
+                {
+                    "slug": "poppins-light",
+                    "name": "Poppins-Light",
+                    "fontFamily": "\"Poppins-Light\", sans-serif",
+                    "fontFace": [
+                        {
+                            "fontFamily": "poppins-light",
+                            "src": [
+                                "file:./assets/fonts/Poppins/Poppins-Light.woff"
+                            ],
+                            "fontStyle": "light"
+                        }
+                    ]
+                },
+                {
+                    "slug": "poppins-lightitalic",
+                    "name": "Poppins-LightItalic",
+                    "fontFamily": "\"Poppins-LightItalic\", sans-serif",
+                    "fontFace": [
+                        {
+                            "fontFamily": "poppins-lightitalic",
+                            "src": [
+                                "file:./assets/fonts/Poppins/Poppins-LightItalic.woff"
+                            ],
+                            "fontStyle": "lightitalic"
+                        }
+                    ]
+                },
+                {
+                    "slug": "poppins-bold",
+                    "name": "Poppins-Bold",
+                    "fontFamily": "\"Poppins-Bold\", sans-serif",
+                    "fontFace": [
+                        {
+                            "fontFamily": "poppins-bold",
+                            "src": [
+                                "file:./assets/fonts/Poppins/Poppins-Bold.woff"
+                            ],
+                            "fontStyle": "bold"
+                        }
+                    ]
+                },
+                {
+                    "slug": "poppins-bolditalic",
+                    "name": "Poppins-BoldItalic",
+                    "fontFamily": "\"Poppins-BoldItalic\", sans-serif",
+                    "fontFace": [
+                        {
+                            "fontFamily": "poppins-bolditalic",
+                            "src": [
+                                "file:./assets/fonts/Poppins/Poppins-BoldItalic.woff"
+                            ],
+                            "fontStyle": "bolditalic"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1 @@
+/Users/enzieriddle/Local Sites/basictemp/app/public/wp-content/plugins/query-monitor/wp-content/db.php
